@@ -1,4 +1,5 @@
-## Hi there <img width="26" height="26" alt="CuteChaPriGIF" src="https://github.com/user-attachments/assets/710f4c66-ae2f-437a-8530-6ff482adbcb9" />
+## Hi there <img width="26" height="26" alt="CatHelloGIF" src="https://github.com/user-attachments/assets/246cf9aa-33f4-44b1-86d0-292aa72affbe" />
+
 
 I'm Kaninnat, an ICT student specializing in Network & Security based in Bangkok, Thailand.
 
